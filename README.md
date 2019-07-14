@@ -81,7 +81,3 @@ A series of online courses offered by [deeplearning.ai](https://www.deeplearning
 
 
 <br/>
-
-
-### Author
-Haibin Yu/ [@HeroKillerEver](https://github.com/HeroKillerEver)
