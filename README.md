@@ -4,7 +4,9 @@
 
 A series of online courses offered by [deeplearning.ai](https://www.deeplearning.ai/). This is taught by Prof. [**Andrew Ng**](www.andrewng.org) and his colleagues.  
 
-**Please only use it as a reference**. The quiz and assignments are relatively easy to answer, hope you can have fun with the courses.  
+**Please only use it as a reference**. 
+
+The quiz and assignments are relatively easy to answer, hope you can have fun with the courses.  
 
 
 ### 1. Neural Network and Deep Learning
